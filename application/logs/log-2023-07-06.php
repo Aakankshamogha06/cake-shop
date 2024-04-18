@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-07-06 07:11:48 --> 404 Page Not Found: admin/Assets/images
+ERROR - 2023-07-06 07:11:48 --> 404 Page Not Found: admin/Assets/images
+ERROR - 2023-07-06 07:11:48 --> 404 Page Not Found: admin/Assets/images
+ERROR - 2023-07-06 07:11:48 --> 404 Page Not Found: admin/Assets/images
+ERROR - 2023-07-06 07:11:48 --> 404 Page Not Found: admin/Assets/images
+ERROR - 2023-07-06 07:11:49 --> 404 Page Not Found: admin/Assets/images
+ERROR - 2023-07-06 07:11:49 --> 404 Page Not Found: admin/Assets/images
+ERROR - 2023-07-06 07:11:49 --> 404 Page Not Found: admin/Assets/images
+ERROR - 2023-07-06 07:13:52 --> 404 Page Not Found: Public/assets
+ERROR - 2023-07-06 08:21:05 --> 404 Page Not Found: admin/Assets/images
+ERROR - 2023-07-06 08:21:05 --> 404 Page Not Found: admin/Assets/images
+ERROR - 2023-07-06 08:21:05 --> 404 Page Not Found: admin/Assets/images
+ERROR - 2023-07-06 08:21:05 --> 404 Page Not Found: admin/Assets/images
+ERROR - 2023-07-06 08:21:05 --> 404 Page Not Found: admin/Assets/images
+ERROR - 2023-07-06 08:22:08 --> 404 Page Not Found: admin/Assets/images
+ERROR - 2023-07-06 08:22:08 --> 404 Page Not Found: admin/Assets/images
+ERROR - 2023-07-06 08:22:08 --> 404 Page Not Found: admin/Assets/images
+ERROR - 2023-07-06 08:22:08 --> 404 Page Not Found: admin/Assets/images
+ERROR - 2023-07-06 08:22:08 --> 404 Page Not Found: admin/Assets/images
+ERROR - 2023-07-06 09:02:16 --> 404 Page Not Found: admin/Assets/images
+ERROR - 2023-07-06 09:02:16 --> 404 Page Not Found: admin/Assets/images
+ERROR - 2023-07-06 09:02:16 --> 404 Page Not Found: admin/Assets/images
+ERROR - 2023-07-06 09:02:16 --> 404 Page Not Found: admin/Assets/images
+ERROR - 2023-07-06 09:02:16 --> 404 Page Not Found: admin/Assets/images
+ERROR - 2023-07-06 09:02:16 --> 404 Page Not Found: admin/Assets/images
+ERROR - 2023-07-06 09:02:16 --> 404 Page Not Found: admin/Assets/images
+ERROR - 2023-07-06 09:02:16 --> 404 Page Not Found: admin/Assets/images

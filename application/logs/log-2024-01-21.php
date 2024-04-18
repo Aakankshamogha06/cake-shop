@@ -1,0 +1,141 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-01-21 00:27:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-21 00:33:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-21 00:34:21 --> 404 Page Not Found: Blog/blog
+ERROR - 2024-01-21 00:36:48 --> 404 Page Not Found: Blog/blog
+ERROR - 2024-01-21 00:40:48 --> 404 Page Not Found: Blog/blog
+ERROR - 2024-01-21 01:00:01 --> 404 Page Not Found: Blog/blog
+ERROR - 2024-01-21 01:02:54 --> 404 Page Not Found: Blog/blog
+ERROR - 2024-01-21 01:07:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-21 01:40:52 --> 404 Page Not Found: Blog/blog
+ERROR - 2024-01-21 02:54:50 --> 404 Page Not Found: About_us/index
+ERROR - 2024-01-21 02:58:28 --> 404 Page Not Found: Our_teams/index
+ERROR - 2024-01-21 03:22:44 --> 404 Page Not Found: Blog/blog
+ERROR - 2024-01-21 04:37:27 --> 404 Page Not Found: Ui_ux/index
+ERROR - 2024-01-21 05:11:37 --> 404 Page Not Found: Personal_advisory/index
+ERROR - 2024-01-21 05:33:02 --> 404 Page Not Found: Blog/blog
+ERROR - 2024-01-21 05:48:13 --> 404 Page Not Found: Ui-uxphp/index
+ERROR - 2024-01-21 05:55:48 --> 404 Page Not Found: Blog/blog
+ERROR - 2024-01-21 06:29:25 --> Severity: Warning --> foreach() argument must be of type array|object, int given /home/u474763945/domains/Cake.com/public_html/application/views/frontend/blog-details.php 2
+ERROR - 2024-01-21 06:45:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-21 07:22:18 --> 404 Page Not Found: Blog/images
+ERROR - 2024-01-21 07:39:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-21 07:39:39 --> 404 Page Not Found: Css/bootstrap.min.css
+ERROR - 2024-01-21 07:39:39 --> 404 Page Not Found: Css/responsive.css
+ERROR - 2024-01-21 07:39:39 --> 404 Page Not Found: Css/style1.css
+ERROR - 2024-01-21 07:39:40 --> 404 Page Not Found: Images/Cake-logo.svg
+ERROR - 2024-01-21 07:39:43 --> 404 Page Not Found: Css/material-design-iconic-font.min.css
+ERROR - 2024-01-21 07:39:43 --> 404 Page Not Found: Css/style.css
+ERROR - 2024-01-21 07:39:44 --> 404 Page Not Found: Fonts/font-awesome.css
+ERROR - 2024-01-21 07:39:44 --> 404 Page Not Found: Js/bootstrap.bundle.min5.2.0.js
+ERROR - 2024-01-21 07:39:44 --> 404 Page Not Found: Js/index1.js
+ERROR - 2024-01-21 07:39:48 --> 404 Page Not Found: Css/amit.css
+ERROR - 2024-01-21 07:39:48 --> 404 Page Not Found: Css/font-poppins.css
+ERROR - 2024-01-21 07:39:49 --> 404 Page Not Found: Css/bootstrap5.3.0.min.css
+ERROR - 2024-01-21 07:39:49 --> 404 Page Not Found: Images/Cake__svglogo.svg
+ERROR - 2024-01-21 07:51:31 --> 404 Page Not Found: Blog/images
+ERROR - 2024-01-21 08:04:31 --> 404 Page Not Found: Blog/blog
+ERROR - 2024-01-21 08:17:45 --> 404 Page Not Found: Blog/blog
+ERROR - 2024-01-21 08:36:24 --> 404 Page Not Found: Css/bootstrap.min.css
+ERROR - 2024-01-21 08:36:25 --> 404 Page Not Found: Css/responsive.css
+ERROR - 2024-01-21 08:36:25 --> 404 Page Not Found: Images/currency
+ERROR - 2024-01-21 08:36:25 --> 404 Page Not Found: Images/currency
+ERROR - 2024-01-21 08:36:25 --> 404 Page Not Found: Images/currency
+ERROR - 2024-01-21 08:36:26 --> 404 Page Not Found: Images/tick-red.svg
+ERROR - 2024-01-21 08:36:26 --> 404 Page Not Found: Images/Cake-logo.svg
+ERROR - 2024-01-21 08:36:31 --> 404 Page Not Found: Css/material-design-iconic-font.min.css
+ERROR - 2024-01-21 08:36:31 --> 404 Page Not Found: Css/style.css
+ERROR - 2024-01-21 08:36:32 --> 404 Page Not Found: Fonts/font-awesome.css
+ERROR - 2024-01-21 08:36:32 --> 404 Page Not Found: Images/currency
+ERROR - 2024-01-21 08:36:32 --> 404 Page Not Found: Js/index1.js
+ERROR - 2024-01-21 08:36:33 --> 404 Page Not Found: Js/bootstrap.bundle.min5.2.0.js
+ERROR - 2024-01-21 08:36:39 --> 404 Page Not Found: Css/bootstrap5.3.0.min.css
+ERROR - 2024-01-21 08:36:39 --> 404 Page Not Found: Css/font-poppins.css
+ERROR - 2024-01-21 08:36:39 --> 404 Page Not Found: Images/Image.webp
+ERROR - 2024-01-21 08:36:40 --> 404 Page Not Found: Images/arrow-black.svg
+ERROR - 2024-01-21 08:36:40 --> 404 Page Not Found: Images/arrow.svg
+ERROR - 2024-01-21 08:36:40 --> 404 Page Not Found: Images/currency
+ERROR - 2024-01-21 08:36:40 --> 404 Page Not Found: Images/currency
+ERROR - 2024-01-21 08:36:41 --> 404 Page Not Found: Images/Cake__svglogo.svg
+ERROR - 2024-01-21 08:36:41 --> 404 Page Not Found: Images/tick.svg
+ERROR - 2024-01-21 08:41:38 --> 404 Page Not Found: App-developmentphp/index
+ERROR - 2024-01-21 09:04:08 --> 404 Page Not Found: White-labelphp/index
+ERROR - 2024-01-21 09:11:11 --> Severity: Warning --> foreach() argument must be of type array|object, int given /home/u474763945/domains/Cake.com/public_html/application/views/frontend/blog-details.php 2
+ERROR - 2024-01-21 10:53:39 --> Severity: Warning --> foreach() argument must be of type array|object, int given /home/u474763945/domains/Cake.com/public_html/application/views/frontend/blog-details.php 2
+ERROR - 2024-01-21 11:33:13 --> 404 Page Not Found: Blog/images
+ERROR - 2024-01-21 11:53:25 --> 404 Page Not Found: Privacy_policy/index
+ERROR - 2024-01-21 11:57:57 --> 404 Page Not Found: Blog/images
+ERROR - 2024-01-21 11:58:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-21 12:04:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-21 12:22:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-21 12:26:42 --> Severity: Warning --> foreach() argument must be of type array|object, int given /home/u474763945/domains/Cake.com/public_html/application/views/frontend/blog-details.php 2
+ERROR - 2024-01-21 12:26:42 --> Severity: Warning --> foreach() argument must be of type array|object, int given /home/u474763945/domains/Cake.com/public_html/application/views/frontend/blog-details.php 2
+ERROR - 2024-01-21 12:26:43 --> Severity: Warning --> foreach() argument must be of type array|object, int given /home/u474763945/domains/Cake.com/public_html/application/views/frontend/blog-details.php 2
+ERROR - 2024-01-21 12:26:43 --> Severity: Warning --> foreach() argument must be of type array|object, int given /home/u474763945/domains/Cake.com/public_html/application/views/frontend/blog-details.php 2
+ERROR - 2024-01-21 12:26:47 --> Severity: Warning --> foreach() argument must be of type array|object, int given /home/u474763945/domains/Cake.com/public_html/application/views/frontend/blog-details.php 2
+ERROR - 2024-01-21 12:26:48 --> Severity: Warning --> foreach() argument must be of type array|object, int given /home/u474763945/domains/Cake.com/public_html/application/views/frontend/blog-details.php 2
+ERROR - 2024-01-21 12:26:57 --> 404 Page Not Found: Request-demophp/index
+ERROR - 2024-01-21 12:26:57 --> 404 Page Not Found: Contact_us/index
+ERROR - 2024-01-21 12:26:58 --> 404 Page Not Found: Contact_us/index
+ERROR - 2024-01-21 12:26:58 --> 404 Page Not Found: Request-demophp/index
+ERROR - 2024-01-21 12:26:58 --> 404 Page Not Found: Request-demophp/index
+ERROR - 2024-01-21 12:26:58 --> 404 Page Not Found: Contact_us/index
+ERROR - 2024-01-21 12:27:02 --> 404 Page Not Found: Request-demo/index
+ERROR - 2024-01-21 12:27:02 --> 404 Page Not Found: Start-broker/index
+ERROR - 2024-01-21 12:27:03 --> 404 Page Not Found: Start-broker/index
+ERROR - 2024-01-21 12:27:03 --> 404 Page Not Found: Request-demo/index
+ERROR - 2024-01-21 12:27:03 --> 404 Page Not Found: Request-demophp/index
+ERROR - 2024-01-21 12:27:04 --> 404 Page Not Found: Start-broker/index
+ERROR - 2024-01-21 12:27:04 --> 404 Page Not Found: Request-demo/index
+ERROR - 2024-01-21 12:27:04 --> 404 Page Not Found: Request-demophp/index
+ERROR - 2024-01-21 12:27:04 --> 404 Page Not Found: Request-demophp/index
+ERROR - 2024-01-21 13:04:35 --> 404 Page Not Found: Prime-specialphp/index
+ERROR - 2024-01-21 13:05:36 --> 404 Page Not Found: Ui-uxphp/index
+ERROR - 2024-01-21 13:19:35 --> 404 Page Not Found: Admin-consultationphp/index
+ERROR - 2024-01-21 13:41:58 --> 404 Page Not Found: Contact_us/index
+ERROR - 2024-01-21 13:45:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-21 13:45:09 --> 404 Page Not Found: Images/currency
+ERROR - 2024-01-21 13:49:35 --> 404 Page Not Found: Portfoliophp/index
+ERROR - 2024-01-21 14:04:35 --> 404 Page Not Found: Liquidity-solutionphp/index
+ERROR - 2024-01-21 14:29:35 --> Severity: Warning --> foreach() argument must be of type array|object, int given /home/u474763945/domains/Cake.com/public_html/application/views/frontend/blog-details.php 2
+ERROR - 2024-01-21 14:34:35 --> 404 Page Not Found: Ya-wealthphp/index
+ERROR - 2024-01-21 15:26:41 --> 404 Page Not Found: Personal-advisoryphp/index
+ERROR - 2024-01-21 15:35:37 --> 404 Page Not Found: Crm-apiphp/index
+ERROR - 2024-01-21 15:46:35 --> 404 Page Not Found: About-usphp/index
+ERROR - 2024-01-21 15:52:35 --> 404 Page Not Found: Digital-marketingphp/index
+ERROR - 2024-01-21 16:04:35 --> 404 Page Not Found: Privacy-policyphp/index
+ERROR - 2024-01-21 16:10:35 --> 404 Page Not Found: Disclaimerphp/index
+ERROR - 2024-01-21 16:19:56 --> 404 Page Not Found: Admin-consultationphp/index
+ERROR - 2024-01-21 16:22:35 --> 404 Page Not Found: Blog-detailsphp/index
+ERROR - 2024-01-21 16:29:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-21 16:46:35 --> 404 Page Not Found: Web-developmentphp/index
+ERROR - 2024-01-21 17:21:37 --> 404 Page Not Found: Prime-vipphp/index
+ERROR - 2024-01-21 17:22:15 --> 404 Page Not Found: Graphic-designphp/index
+ERROR - 2024-01-21 17:22:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-21 18:06:37 --> 404 Page Not Found: Liquidity-solutionphp/index
+ERROR - 2024-01-21 18:10:35 --> 404 Page Not Found: Ya-wealthphp/index
+ERROR - 2024-01-21 18:18:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-21 18:19:35 --> 404 Page Not Found: About-usphp/index
+ERROR - 2024-01-21 18:24:52 --> 404 Page Not Found: Blog/images
+ERROR - 2024-01-21 18:38:26 --> Severity: Warning --> foreach() argument must be of type array|object, int given /home/u474763945/domains/Cake.com/public_html/application/views/frontend/blog-details.php 2
+ERROR - 2024-01-21 18:51:36 --> 404 Page Not Found: Terms_conditions/index
+ERROR - 2024-01-21 18:54:15 --> 404 Page Not Found: Blog/images
+ERROR - 2024-01-21 19:24:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-21 19:24:28 --> 404 Page Not Found: Blog/images
+ERROR - 2024-01-21 19:26:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-21 19:42:19 --> 404 Page Not Found: Digital-marketingphp/index
+ERROR - 2024-01-21 20:01:42 --> 404 Page Not Found: Blog/images
+ERROR - 2024-01-21 20:27:19 --> 404 Page Not Found: Contact-usphp/index
+ERROR - 2024-01-21 21:24:25 --> 404 Page Not Found: White-labelphp/index
+ERROR - 2024-01-21 21:43:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-21 21:50:51 --> 404 Page Not Found: Liquidityphp/index
+ERROR - 2024-01-21 22:35:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-01-21 22:35:36 --> 404 Page Not Found: Blog/images
+ERROR - 2024-01-21 22:42:24 --> 404 Page Not Found: Images/Cake-logo.svg
+ERROR - 2024-01-21 22:42:25 --> 404 Page Not Found: Images/Cake__svglogo.svg
+ERROR - 2024-01-21 22:49:17 --> 404 Page Not Found: Blog/images
+ERROR - 2024-01-21 22:54:28 --> 404 Page Not Found: Liquidityphp/index
+ERROR - 2024-01-21 23:10:37 --> 404 Page Not Found: Terms-conditionsphp/index
+ERROR - 2024-01-21 23:59:06 --> 404 Page Not Found: Careersphp/index
+ERROR - 2024-01-21 23:59:06 --> 404 Page Not Found: Robotstxt/index
